@@ -14,6 +14,27 @@
 		764AFAC829E76F8F006875EA /* Lab7_2023Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAC729E76F8F006875EA /* Lab7_2023Tests.swift */; };
 		764AFAD229E76F8F006875EA /* Lab7_2023UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAD129E76F8F006875EA /* Lab7_2023UITests.swift */; };
 		764AFAD429E76F8F006875EA /* Lab7_2023UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAD329E76F8F006875EA /* Lab7_2023UITestsLaunchTests.swift */; };
+		764AFAE129E77005006875EA /* Treasures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAE029E77005006875EA /* Treasures.swift */; };
+		764AFAE229E77005006875EA /* Treasures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAE029E77005006875EA /* Treasures.swift */; };
+		764AFAE329E77005006875EA /* Treasures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAE029E77005006875EA /* Treasures.swift */; };
+		764AFAE529E773E9006875EA /* Treasure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAE429E773E9006875EA /* Treasure.swift */; };
+		764AFAE629E773E9006875EA /* Treasure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAE429E773E9006875EA /* Treasure.swift */; };
+		764AFAE729E773E9006875EA /* Treasure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAE429E773E9006875EA /* Treasure.swift */; };
+		764AFAE929E775C1006875EA /* Tile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAE829E775C1006875EA /* Tile.swift */; };
+		764AFAEA29E775C1006875EA /* Tile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAE829E775C1006875EA /* Tile.swift */; };
+		764AFAEB29E775C1006875EA /* Tile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAE829E775C1006875EA /* Tile.swift */; };
+		764AFAED29E777D5006875EA /* Tiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAEC29E777D5006875EA /* Tiles.swift */; };
+		764AFAEE29E777D5006875EA /* Tiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAEC29E777D5006875EA /* Tiles.swift */; };
+		764AFAEF29E777D5006875EA /* Tiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAEC29E777D5006875EA /* Tiles.swift */; };
+		764AFAF129E794A0006875EA /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAF029E794A0006875EA /* StartView.swift */; };
+		764AFAF229E794A0006875EA /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAF029E794A0006875EA /* StartView.swift */; };
+		764AFAF329E794A0006875EA /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAF029E794A0006875EA /* StartView.swift */; };
+		764AFAF529E79678006875EA /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAF429E79678006875EA /* SettingsView.swift */; };
+		764AFAF629E79678006875EA /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAF429E79678006875EA /* SettingsView.swift */; };
+		764AFAF729E79678006875EA /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAF429E79678006875EA /* SettingsView.swift */; };
+		764AFAF929E79DCE006875EA /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAF829E79DCE006875EA /* GameView.swift */; };
+		764AFAFA29E79DCE006875EA /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAF829E79DCE006875EA /* GameView.swift */; };
+		764AFAFB29E79DCE006875EA /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 764AFAF829E79DCE006875EA /* GameView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +65,13 @@
 		764AFACD29E76F8F006875EA /* Lab7_2023UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab7_2023UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		764AFAD129E76F8F006875EA /* Lab7_2023UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab7_2023UITests.swift; sourceTree = "<group>"; };
 		764AFAD329E76F8F006875EA /* Lab7_2023UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab7_2023UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		764AFAE029E77005006875EA /* Treasures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Treasures.swift; sourceTree = "<group>"; };
+		764AFAE429E773E9006875EA /* Treasure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Treasure.swift; sourceTree = "<group>"; };
+		764AFAE829E775C1006875EA /* Tile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tile.swift; sourceTree = "<group>"; };
+		764AFAEC29E777D5006875EA /* Tiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tiles.swift; sourceTree = "<group>"; };
+		764AFAF029E794A0006875EA /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		764AFAF429E79678006875EA /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		764AFAF829E79DCE006875EA /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +123,13 @@
 			isa = PBXGroup;
 			children = (
 				764AFAB629E76F8C006875EA /* Lab7_2023App.swift */,
+				764AFAE029E77005006875EA /* Treasures.swift */,
+				764AFAE829E775C1006875EA /* Tile.swift */,
+				764AFAEC29E777D5006875EA /* Tiles.swift */,
+				764AFAF029E794A0006875EA /* StartView.swift */,
+				764AFAF429E79678006875EA /* SettingsView.swift */,
+				764AFAF829E79DCE006875EA /* GameView.swift */,
+				764AFAE429E773E9006875EA /* Treasure.swift */,
 				764AFAB829E76F8C006875EA /* ContentView.swift */,
 				764AFABA29E76F8F006875EA /* Assets.xcassets */,
 				764AFABC29E76F8F006875EA /* Preview Content */,
@@ -257,8 +292,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				764AFAE529E773E9006875EA /* Treasure.swift in Sources */,
+				764AFAF529E79678006875EA /* SettingsView.swift in Sources */,
 				764AFAB929E76F8C006875EA /* ContentView.swift in Sources */,
+				764AFAE929E775C1006875EA /* Tile.swift in Sources */,
+				764AFAF929E79DCE006875EA /* GameView.swift in Sources */,
+				764AFAE129E77005006875EA /* Treasures.swift in Sources */,
 				764AFAB729E76F8C006875EA /* Lab7_2023App.swift in Sources */,
+				764AFAED29E777D5006875EA /* Tiles.swift in Sources */,
+				764AFAF129E794A0006875EA /* StartView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +308,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				764AFAF629E79678006875EA /* SettingsView.swift in Sources */,
+				764AFAE229E77005006875EA /* Treasures.swift in Sources */,
+				764AFAEE29E777D5006875EA /* Tiles.swift in Sources */,
 				764AFAC829E76F8F006875EA /* Lab7_2023Tests.swift in Sources */,
+				764AFAF229E794A0006875EA /* StartView.swift in Sources */,
+				764AFAE629E773E9006875EA /* Treasure.swift in Sources */,
+				764AFAFA29E79DCE006875EA /* GameView.swift in Sources */,
+				764AFAEA29E775C1006875EA /* Tile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +323,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				764AFAE729E773E9006875EA /* Treasure.swift in Sources */,
+				764AFAF729E79678006875EA /* SettingsView.swift in Sources */,
 				764AFAD229E76F8F006875EA /* Lab7_2023UITests.swift in Sources */,
+				764AFAEB29E775C1006875EA /* Tile.swift in Sources */,
+				764AFAFB29E79DCE006875EA /* GameView.swift in Sources */,
+				764AFAE329E77005006875EA /* Treasures.swift in Sources */,
 				764AFAD429E76F8F006875EA /* Lab7_2023UITestsLaunchTests.swift in Sources */,
+				764AFAEF29E777D5006875EA /* Tiles.swift in Sources */,
+				764AFAF329E794A0006875EA /* StartView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
